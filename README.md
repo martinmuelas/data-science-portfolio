@@ -17,19 +17,19 @@ Analizamos, entre otras cosas, las categorías más populares, las calificacione
 
 [![View on nbviewer](https://img.shields.io/badge/View_on-nbviewer-orange?logo=jupyter&style=flat-square)](https://nbviewer.jupyter.org/github/martinmuelas/data-science-portfolio/blob/master/datacamp_projects/analisis_google_play/notebook.ipynb)
 
-### Historia en GitHub del lenguaje Scala
+### [Historia en GitHub del lenguaje Scala](datacamp_projects/lenguaje_scala_historia_github/notebook.ipynb)
 
 Tomamos datos del repositorio en GitHub para el lenguaje Scala, y a través de un análisis exploratorio de datos descubriremos no solo un poco sobre la historia de este lenguaje de programación sino también un mecanismo para evaluar como contribuir en proyectos Open Source en general.
 
 [![View on nbviewer](https://img.shields.io/badge/View_on-nbviewer-orange?logo=jupyter&style=flat-square)](https://nbviewer.jupyter.org/github/martinmuelas/data-science-portfolio/blob/master/datacamp_projects/lenguaje_scala_historia_github/notebook.ipynb)
 
-### Historia visual de los ganadores del premio Nobel
+### [Historia visual de los ganadores del premio Nobel](datacamp_projects/historia_visual_ganadores_nobel/notebook.ipynb)
 
 Analizamos los ganadores de este prestigioso reconocimiento científico a lo largo de la historia. ¿Qué países acumulan más ganadores? ¿Existen sesgos de algún tipo? Averigüémoslo mediante un sencillo análisis exploratorio.
 
 [![View on nbviewer](https://img.shields.io/badge/View_on-nbviewer-orange?logo=jupyter&style=flat-square)](https://nbviewer.jupyter.org/github/martinmuelas/data-science-portfolio/blob/master/datacamp_projects/historia_visual_ganadores_nobel/notebook.ipynb)
 
-### Dr. Semmelweis y la importancia del lavado de manos
+### [Dr. Semmelweis y la importancia del lavado de manos](datacamp_projects/el_descubrimiento_del_lavado_de_manos/notebook.ipynb)
 
 Analizamos con este sencillo análisis exploratorio, como el Dr. Ignaz Semmelweis contribuyó a cambiar radicalmente la historia de la medicina moderna a través de sus estudios sobre la fiebre puerperal y la importancia del lavado de manos.
 
