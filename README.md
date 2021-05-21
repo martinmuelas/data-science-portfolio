@@ -34,3 +34,11 @@ Analizamos los ganadores de este prestigioso reconocimiento científico a lo lar
 Analizamos con este sencillo análisis exploratorio, como el Dr. Ignaz Semmelweis contribuyó a cambiar radicalmente la historia de la medicina moderna a través de sus estudios sobre la fiebre puerperal y la importancia del lavado de manos.
 
 [![View on nbviewer](https://img.shields.io/badge/View_on-nbviewer-orange?logo=jupyter&style=flat-square)](https://nbviewer.jupyter.org/github/martinmuelas/data-science-portfolio/blob/master/datacamp_projects/el_descubrimiento_del_lavado_de_manos/notebook.ipynb)
+
+---
+
+### [Predictor de aprobaciones de tarjetas de crédito](datacamp_projects/aprobaciones_tarjetas_credito/notebook.ipynb)
+
+Introducción al machine learning y los modelos de clasificación. Aquí construimos un modelo que es capaz de clasificar solicitudes de tarjetas de crédito prediciendo si las mismas serán aprobadas o rechazadas.
+
+[![View on nbviewer](https://img.shields.io/badge/View_on-nbviewer-orange?logo=jupyter&style=flat-square)](https://nbviewer.jupyter.org/github/martinmuelas/data-science-portfolio/blob/master/datacamp_projects/aprobaciones_tarjetas_credito/notebook.ipynb)
